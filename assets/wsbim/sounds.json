@@ -1,0 +1,6 @@
+{
+   "freezer_open": {"category": "master","sounds": [{"name": "freezer_open","stream": false}]},
+    "freezer_close": {"category": "master","sounds": [{"name": "freezer_close","stream": false}]},
+    "freezer_loop": {"category": "master","sounds": [{"name": "freezer_loop","stream": false}]}
+
+        }
