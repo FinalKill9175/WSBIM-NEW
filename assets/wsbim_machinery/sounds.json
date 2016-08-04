@@ -1,7 +1,0 @@
-{
-   "macerator": {"category": "master","sounds": [{"name": "macerator","stream": false}]},
-    "macerator_done": {"category": "master","sounds": [{"name": "macerator_done","stream": false}]},
-	"machinery": {"category": "master","sounds": [{"name": "machinery","stream": false}]},
-"powerFurnace": {"category": "master","sounds": [{"name": "powerFurnace","stream": false}]}
-
-     }
